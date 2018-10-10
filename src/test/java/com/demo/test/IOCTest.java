@@ -6,6 +6,10 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 import org.springframework.context.support.FileSystemXmlApplicationContext;
 
+/**
+ * 传统方式读取application.xml配置文件
+ *
+ */
 public class IOCTest {
 
     @Test
